@@ -1,0 +1,9 @@
+*/Temp/*
+*/Library/*
+*/Builds/*
+
+*.pidb
+*.userprefs
+*.DS_Store
+*.csproj
+*.sln
